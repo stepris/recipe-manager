@@ -341,6 +341,9 @@ video {
     --spacing-10: 50px;
 
     /*Debug*/
-    --debug: 1px solid green;
+    --debug-1: 1px solid green;
+    --debug-2: 1px solid orange;
+    --debug-3: 1px solid blue;
+    --debug-4: 1px solid red;
   }
 `;
